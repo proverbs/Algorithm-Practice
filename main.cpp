@@ -1,9 +1,7 @@
-#include <iostream>
 #include "POJ2185.h"
 
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    solve();
+    POJ2185::solve();
     return 0;
 }
