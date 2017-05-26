@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/proverbs/CLionProjects/poj/POJ2185.h
+iostream
+-
+
+/home/proverbs/CLionProjects/poj/main.cpp
+iostream
+-
+POJ2185.h
+/home/proverbs/CLionProjects/poj/POJ2185.h
+
