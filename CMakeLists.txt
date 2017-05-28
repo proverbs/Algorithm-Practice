@@ -3,5 +3,5 @@ project(poj)
 
 set(CMAKE_CXX_STANDARD 98)
 
-set(SOURCE_FILES main.cpp POJ2185.h)
+set(SOURCE_FILES main.cpp POJ2185.h POJ1743.h)
 add_executable(poj ${SOURCE_FILES})

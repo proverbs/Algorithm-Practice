@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+/home/proverbs/CLionProjects/poj/POJ1743.h
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+
 /home/proverbs/CLionProjects/poj/POJ2185.h
 iostream
 -
@@ -19,4 +29,6 @@ cstdlib
 /home/proverbs/CLionProjects/poj/main.cpp
 POJ2185.h
 /home/proverbs/CLionProjects/poj/POJ2185.h
+POJ1743.h
+/home/proverbs/CLionProjects/poj/POJ1743.h
 

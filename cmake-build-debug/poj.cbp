@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/proverbs/CLionProjects/poj/POJ1743.h">
+			<Option target="poj"/>
+		</Unit>
 		<Unit filename="/home/proverbs/CLionProjects/poj/POJ2185.h">
 			<Option target="poj"/>
 		</Unit>
