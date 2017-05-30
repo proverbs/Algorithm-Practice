@@ -57,6 +57,7 @@ namespace POJ1743 {
                 if (sa[i] >= w) sb[p++] = sa[i] - w;
             radix_sort();
             // sb存放sk的一份拷贝，因为之后要利用当前sk更新之后的sk
+            // 而且，在下一轮循环中，sb利用sk的值可以直接排序
             for (i = 0; i < n; i++) sb[i] = sk[i];
             // 更新sk
             p = 0;
