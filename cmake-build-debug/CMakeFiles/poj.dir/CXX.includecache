@@ -36,6 +36,16 @@ cstring
 cstdlib
 -
 
+/home/proverbs/CLionProjects/poj/POJ2828.h
+iostream
+-
+cstring
+-
+cstdio
+-
+cstdlib
+-
+
 /home/proverbs/CLionProjects/poj/POJ3321.h
 iostream
 -
@@ -55,4 +65,6 @@ HDU2222.h
 /home/proverbs/CLionProjects/poj/HDU2222.h
 POJ3321.h
 /home/proverbs/CLionProjects/poj/POJ3321.h
+POJ2828.h
+/home/proverbs/CLionProjects/poj/POJ2828.h
 
