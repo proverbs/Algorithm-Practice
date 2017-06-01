@@ -6,6 +6,18 @@
 
 #IncludeRegexTransform: 
 
+/home/proverbs/CLionProjects/poj/HDU1890.h
+iostream
+-
+cstring
+-
+cstdio
+-
+cstdlib
+-
+algorithm
+-
+
 /home/proverbs/CLionProjects/poj/HDU2222.h
 iostream
 -
@@ -67,4 +79,6 @@ POJ3321.h
 /home/proverbs/CLionProjects/poj/POJ3321.h
 POJ2828.h
 /home/proverbs/CLionProjects/poj/POJ2828.h
+HDU1890.h
+/home/proverbs/CLionProjects/poj/HDU1890.h
 

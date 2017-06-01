@@ -3,6 +3,7 @@
 #include "HDU2222.h"
 #include "POJ3321.h"
 #include "POJ2828.h"
+#include "HDU1890.h"
 
 
 int main() {
@@ -10,6 +11,7 @@ int main() {
     // POJ1743::solve();
     // HDU2222::solve();
     // POJ3321::solve();
-    POJ2828::solve();
+    // POJ2828::solve();
+    HDU1890::solve();
     return 0;
 }
