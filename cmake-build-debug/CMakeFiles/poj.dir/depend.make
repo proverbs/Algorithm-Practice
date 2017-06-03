@@ -3,7 +3,9 @@
 
 CMakeFiles/poj.dir/main.cpp.o: ../HDU1890.h
 CMakeFiles/poj.dir/main.cpp.o: ../HDU2222.h
+CMakeFiles/poj.dir/main.cpp.o: ../HDU2665.h
 CMakeFiles/poj.dir/main.cpp.o: ../POJ1743.h
+CMakeFiles/poj.dir/main.cpp.o: ../POJ2019.h
 CMakeFiles/poj.dir/main.cpp.o: ../POJ2185.h
 CMakeFiles/poj.dir/main.cpp.o: ../POJ2828.h
 CMakeFiles/poj.dir/main.cpp.o: ../POJ3321.h

@@ -90,7 +90,13 @@
 		<Unit filename="/home/proverbs/CLionProjects/poj/HDU2222.h">
 			<Option target="poj"/>
 		</Unit>
+		<Unit filename="/home/proverbs/CLionProjects/poj/HDU2665.h">
+			<Option target="poj"/>
+		</Unit>
 		<Unit filename="/home/proverbs/CLionProjects/poj/POJ1743.h">
+			<Option target="poj"/>
+		</Unit>
+		<Unit filename="/home/proverbs/CLionProjects/poj/POJ2019.h">
 			<Option target="poj"/>
 		</Unit>
 		<Unit filename="/home/proverbs/CLionProjects/poj/POJ2185.h">

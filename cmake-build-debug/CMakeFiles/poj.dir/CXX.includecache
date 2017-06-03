@@ -28,6 +28,18 @@ cstdlib
 cstdio
 -
 
+/home/proverbs/CLionProjects/poj/HDU2665.h
+iostream
+-
+cstring
+-
+cstdlib
+-
+cstdio
+-
+algorithm
+-
+
 /home/proverbs/CLionProjects/poj/POJ1743.h
 iostream
 -
@@ -36,6 +48,18 @@ cstdio
 cstring
 -
 cstdlib
+-
+
+/home/proverbs/CLionProjects/poj/POJ2019.h
+iostream
+-
+cstring
+-
+cstdio
+-
+cstdlib
+-
+algorithm
 -
 
 /home/proverbs/CLionProjects/poj/POJ2185.h
@@ -81,4 +105,8 @@ POJ2828.h
 /home/proverbs/CLionProjects/poj/POJ2828.h
 HDU1890.h
 /home/proverbs/CLionProjects/poj/HDU1890.h
+POJ2019.h
+/home/proverbs/CLionProjects/poj/POJ2019.h
+HDU2665.h
+/home/proverbs/CLionProjects/poj/HDU2665.h
 
