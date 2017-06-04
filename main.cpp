@@ -6,6 +6,7 @@
 #include "HDU1890.h"
 #include "POJ2019.h"
 #include "HDU2665.h"
+#include "HDU3966.h"
 
 
 int main() {
@@ -15,6 +16,7 @@ int main() {
     // POJ3321::solve();
     // POJ2828::solve();
     // POJ2019::solve();
-    HDU2665::solve();
+    // HDU2665::solve();
+    HDU3966::solve();
     return 0;
 }
