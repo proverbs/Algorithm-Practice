@@ -40,6 +40,26 @@ cstdio
 algorithm
 -
 
+/home/proverbs/CLionProjects/poj/HDU3966.h
+iostream
+-
+cstring
+-
+cstdlib
+-
+cstdio
+-
+
+/home/proverbs/CLionProjects/poj/HDU4622.h
+iostream
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+
 /home/proverbs/CLionProjects/poj/POJ1743.h
 iostream
 -
@@ -109,4 +129,8 @@ POJ2019.h
 /home/proverbs/CLionProjects/poj/POJ2019.h
 HDU2665.h
 /home/proverbs/CLionProjects/poj/HDU2665.h
+HDU3966.h
+/home/proverbs/CLionProjects/poj/HDU3966.h
+HDU4622.h
+/home/proverbs/CLionProjects/poj/HDU4622.h
 
